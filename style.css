@@ -1,0 +1,38 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 10px;
+}
+.motorcycle-container {
+    display: flex;
+    justify-content: center;
+}
+
+.motorcycle-container img {
+    width: 200px;
+    margin: 10px;
+}
+.describthion-container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1, h2, p {
+    text-align: center;
+}
